@@ -1,0 +1,14 @@
+# Core ML/AI Framework
+tensorflow==2.20.0
+
+# Data Processing
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+
+# Visualization
+matplotlib==3.10.7
+seaborn==0.12.2
+
+# Utilities
+h5py==3.15.1
