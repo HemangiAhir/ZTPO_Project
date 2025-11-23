@@ -11,10 +11,9 @@ Key results (tested on 30,000+ simulated access events):
 
 ### Repository Contents
 - `paper/` – Full research paper (PDF + LaTeX source)
-- `code/` – Complete implementation (Python + TensorFlow)
+- `Model/` – Complete implementation (Python + TensorFlow)
   - Data preprocessing & simulation environment
   - Deep Q-Learning (DQN) agent for policy optimization
   - Integration examples with IAM/SIEM APIs
   - Evaluation scripts and notebooks
-- `datasets/` – Preprocessed UNSW-NB15 subset + synthetic access logs (anonymized)
 - `results/` – Figures, tables, and detailed experiment logs
